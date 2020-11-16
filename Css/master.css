@@ -12,15 +12,21 @@ margin-left: auto;
 margin-right: auto;
 }
 header{
+display: flex;
+align-items: center;
+justify-content: center;
   height:150px;
   width:100%;
   background-color: violet;
+
+
 }
 
 nav{
 height: 50px;
   width:100%;
   background-color: lightgreen;
+
 }
 
 main{
