@@ -40,9 +40,6 @@ background-color: #FFFFFF;
 }
 
 aside{
-  display: flex;
-  align-items: center;
-  justify-content: center;
 height: 450px;
 padding: 20px;
 width: 40%;
