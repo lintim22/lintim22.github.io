@@ -43,7 +43,7 @@ aside{
   display: flex;
   align-items: center;
   justify-content: center;
-height: 550px;
+height: 450px;
 padding: 20px;
 width: 40%;
 background-color: lightblue;
@@ -51,7 +51,7 @@ background-color: lightblue;
 
 footer{
 height: 100px;
-width:60%;
+width:50%;
 background-color: lightyellow;
 
 }
