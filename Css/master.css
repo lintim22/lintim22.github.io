@@ -17,7 +17,7 @@ align-items: center;
 justify-content: center;
   height:150px;
   width:100%;
-  background-color:	#F5E6D3;
+  background-color:	#CCC7D1;
 
 
 }
@@ -28,7 +28,7 @@ nav{
   justify-content: center;
 height: 50px;
   width:100%;
-  background-color: #FFF3DB;
+  background-color: #A5A4AB;
 
 }
 
@@ -36,20 +36,20 @@ main{
 height: 450px;
 width: 60%;
 padding: 15px;
-background-color: #FFFFFF;
+background-color: #A5A4AB;
 }
 
 aside{
 height: 450px;
 padding: 20px;
 width: 40%;
-background-color: #E9E4D4;
+background-color: #E2E1EB;
 }
 
 footer{
 height: 100px;
 width:100%;
-background-color: #FFFFFF;
+background-color: #C1C0C8;
 
 }
 #container{
